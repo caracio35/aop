@@ -1,0 +1,11 @@
+UI/UICompeticion.class
+org/example/Main.class
+model/Concursante.class
+model/Log.class
+persistencia/LeerDisco.class
+model/RegistroAspecteado.class
+org/example/Main$1.class
+model/RegistroConcursantes.class
+UI/UICompeticion$1.class
+persistencia/EscribirBD.class
+model/Concurso.class
